@@ -1,0 +1,7 @@
+body {
+  display: flex; }
+
+h1 {
+  font-size: 50px;
+  background-color: #f33;
+  margin: 0 auto; }
